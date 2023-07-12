@@ -1,4 +1,4 @@
-epic_quote = 'Under carefully controlled experimental circumstances, an animal will behave as it damned well pleases.’ 
+epic_quote = 'Under carefully controlled experimental circumstances, an animal will behave as it damned well pleases.' 
 author = 'Harvard Law of Animal Behavior'
 
 print(f"{epic_quote} -- {author}")
